@@ -1,0 +1,7 @@
+
+16:46:31	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+16:07:57	POST =>	https://api.bruit.io/feedback/multipart	
+16:07:50	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+16:07:44	url	http://localhost:4200/get-started?tool=github-api&apiKey=23cfce12-084e-440b-90e5-6c9cf8c18a77	
