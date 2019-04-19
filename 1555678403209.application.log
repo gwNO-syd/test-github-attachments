@@ -1,0 +1,22 @@
+
+14:28:22	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+14:18:08	POST =>	https://api.bruit.io/feedback/multipart	
+14:18:01	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+13:08:19	POST =>	https://api.bruit.io/feedback/multipart	
+13:08:12	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+13:08:04	POST =>	https://api.bruit.io/feedback/multipart	
+13:08:00	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+13:03:48	POST =>	https://api.bruit.io/feedback/multipart	
+13:03:41	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+12:59:12	POST =>	https://api.bruit.io/feedback/multipart	
+12:58:58	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+12:35:52	POST =>	https://api.bruit.io/feedback/multipart	
+12:35:46	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+12:35:38	url	http://localhost:4200/get-started?tool=github-api&apiKey=23cfce12-084e-440b-90e5-6c9cf8c18a77	
